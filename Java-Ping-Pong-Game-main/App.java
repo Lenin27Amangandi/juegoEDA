@@ -1,9 +1,6 @@
-import java.awt.*;
-import java.awt.event.*;
-import java.util.*;
-import javax.swing.*;
+import GUI.GameFrame;
 
-public class PongGame {
+public class App {
 
 	public static void main(String[] args) {
 		//A main method to create new game frame object
